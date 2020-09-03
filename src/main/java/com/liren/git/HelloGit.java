@@ -8,6 +8,7 @@ public class HelloGit {
 		System.out.println("Switch To");
 		System.out.println("master add");
 		System.out.println("dev add");
+		System.out.println("local Update");
 	}
 
 }
